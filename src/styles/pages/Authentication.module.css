@@ -1,0 +1,9 @@
+.container {
+  background: var(--blue);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  margin: 0 auto;
+  overflow-x: hidden;
+}
